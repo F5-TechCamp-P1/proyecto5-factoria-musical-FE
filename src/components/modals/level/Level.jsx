@@ -38,7 +38,7 @@ export const Level = () => {
             <h1>Por favor, seleccione un nivel</h1>
             <div className="level-buttons">
                 <LevelButton songs={easySongs} text="FÁCIL" />
-                <LevelButton songs={mediumSongs} text="MEDIO" />
+                <LevelButton songs={mediumSongs} text="HOLA AWS" />
                 <LevelButton songs={hardSongs} text="DIFÍCIL" />
             </div>
         </div>
